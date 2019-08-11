@@ -21,7 +21,7 @@
 			<MenuItem Header="Q" FontFamily="Wingdings 3" ToolTip="Rotate face counter-clockwise"/>
 			<MenuItem Header="P" FontFamily="Wingdings 3" ToolTip="Rotate face clockwise"/>
 		</Menu>
-		<Image Name="MyFace" Source="J:\Yosuke\Pictures\Folders\My Faces\Selfie26FEB2017.2.jpg" Width="640">
+		<Image Name="MyFace" Source="J:\Yosuke\Pictures\Folders\My Faces\IMG_1383.jpg" Width="640">
 			<!--
 		<Image.Effect>
 			<eff:SimpleMultiInputEffect x:Name="eff" Input2="{StaticResource treeKey}" MixInAmount="{Binding ElementName=slider1, Path=Value}" />
